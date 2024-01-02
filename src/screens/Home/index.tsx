@@ -15,6 +15,10 @@ export function Home() {
   const [participantName, setParticipantName] = useState("");
 
   function handleParticipantAdd() {
+    if (participantName === "") {
+      return;
+    }
+
     if (participants.includes(participantName)) {
       return Alert.alert(
         "O participante existe!",
@@ -23,26 +27,27 @@ export function Home() {
     }
     setParticipants((prevState) => [...prevState, participantName]);
     setParticipantName("");
-    console.log(participants);
   }
 
   function handleParticipantRemove(name: string) {
     Alert.alert("Remover", `Remover o participante ${name}?`, [
       {
         text: "Sim",
-        onPress: () => Alert.alert("Deletado"),
+        onPress: () =>
+          setParticipants((prevState) =>
+            prevState.filter((participant) => participant !== name)
+          ),
       },
       {
         text: "Não",
         style: "cancel",
       },
     ]);
-    console.log(`clicou para remover participante ${name}`);
   }
 
   return (
     <View style={styles.container}>
-      <Text style={styles.eventName}>Nome do evento</Text>
+      <Text style={styles.eventName}>Futebol</Text>
       <Text style={styles.eventDate}>Terça, 2 de janeiro de 2024</Text>
 
       <View style={styles.form}>
