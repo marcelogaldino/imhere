@@ -43,8 +43,8 @@
 <p>Im Here App is made for you, who wants to keep your appointments organized | Let's spread love 🗒️ 💜 </p>
 
 <div style="display: flex; flex-direction: row;">
-    <img alt="Todo App empty list" src="src/assets/imhere - Empty.png">
-    <img alt="imhere App filled list" src="src/assets/imhere - List.png">
+    <img alt="Todo App empty list" src="src/assets/imhere-Empty.png">
+    <img alt="imhere App filled list" src="src/assets/imhere-List.png">
 </div>
  
 ## :rocket: Techs
