@@ -43,8 +43,8 @@
 <p>Im Here App is made for you, who wants to keep your appointments organized | Let's spread love 🗒️ 💜 </p>
 
 <div style="display: flex; flex-direction: row;">
-    <img alt="Todo App empty list" src="https://github.com/marcelogaldino/imhere/assets/13842365/0318d6dc-8e74-4cd8-8382-c276ba6562ac">
-    <img alt="imhere App filled list" src="https://github.com/marcelogaldino/imhere/assets/13842365/c4788207-730a-4234-a803-412e77d3aab3">
+    <img alt="Todo App empty list" height="600" src="https://github.com/marcelogaldino/imhere/assets/13842365/0318d6dc-8e74-4cd8-8382-c276ba6562ac">
+    <img alt="imhere App filled list" height="600" src="https://github.com/marcelogaldino/imhere/assets/13842365/c4788207-730a-4234-a803-412e77d3aab3">
 </div>
  
 ## :rocket: Techs
