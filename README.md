@@ -1,6 +1,3 @@
-<!-- <h2 align="center">
-    <img alt="imhere Logo" src="src/assets/Logo.png">
-</h2> -->
 <h2 align="center">
   Im Here
 </h2>
@@ -31,11 +28,11 @@
 </p>
 
 <p align="center">
-  <a href="#about-imhere">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#how-to-use-(developer-mode)">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#about-im-here-app">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#license">License</a>
 </p>
 
 ## About Im Here App
@@ -47,7 +44,7 @@
     <img alt="imhere App filled list" height="600" src="https://github.com/marcelogaldino/imhere/assets/13842365/c4788207-730a-4234-a803-412e77d3aab3">
 </div>
  
-## :rocket: Techs
+## Techs
 
 This project has been developed with the following techs:
 
@@ -55,7 +52,7 @@ This project has been developed with the following techs:
 [Typescript][typescript] 📘 </br>
 [Expo][expo] 🤍️ </br>
 
-## How to use (Developer mode) ? 🤔
+## How to use
 
 In order to clone this repo, you'll need some tools
 
@@ -97,11 +94,13 @@ Open a pull request and we will check your changes
 
 You also can help us openning issues
 
-## :memo: License
+## License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/marcelogaldino/imhere/blob/main/LICENSE) for details.
 
-Made with ♥ by Marcelo Galdino :wave: [Get in touch!](https://www.linkedin.com/in/marcelogaldino/)
+Made with ♥ by Marcelo Galdino [Get in touch!](https://www.linkedin.com/in/marcelogaldino/)
+
+### Read in [Portuguese PT-BR](README-PT-BR.md)
 
 [typescript]: https://www.typescriptlang.org/
 [react-native]: https://reactnative.dev/
